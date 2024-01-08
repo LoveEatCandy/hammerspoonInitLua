@@ -2,7 +2,7 @@ Hammerspoon init file
 ====================
 
 # features
-This is the Hammerspoon init file for auto turn on or off the sleep feature.
+This is the Hammerspoon init file for auto turn on or off the sleep feature of MacOS.
 - When AC power is connected, sleep is disabled, and system will never sleep even if lid is closed.
 - When AC power is disconnected, sleep is enabled.
 
